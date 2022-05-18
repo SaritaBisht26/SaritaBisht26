@@ -1,7 +1,13 @@
+<img align="center" alt="Coding" height="200px" width="100%" src="https://github.com/SaritaBisht26/SaritaBisht26/blob/main/SB.jpg?raw=true">
+
 <h1 align="center">Hi 👋, I'm Sarita Bisht</h1>
 <h3 align="center">Student at Mukand Lal National college. Incoming Software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saritabisht26" alt="saritabisht26" /></a> </p>
+
+
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 🌱 I’m currently learning **Bachelor's of Computer Application**
 
