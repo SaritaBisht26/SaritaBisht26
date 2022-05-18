@@ -2,7 +2,7 @@
 <h3 align="center">Student at Mukand Lal National college. Incoming Software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saritabisht26" alt="saritabisht26" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 🌱 I’m currently learning **Bachelor's of Computer Application**
 
 - 📫 How to reach me **saritabisht26092002@gmail.com**
